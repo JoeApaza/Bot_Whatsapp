@@ -25,7 +25,7 @@ const main = async () => {
   const adapterFlow = createFlow([flowSaludar]);
   const adapterProvider = createProvider(BaileysProvider, {
     usePairingCode: true,
-    phoneNumber: "51940083614",
+    phoneNumber: "Tu numero",
   });
 
 
